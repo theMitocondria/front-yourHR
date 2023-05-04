@@ -1,0 +1,41 @@
+.home{
+background-color:black;
+height: 99vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.button-home{
+    height: 60vh;
+    border-radius: 12px;
+    box-shadow: 2px 2px 5px 1px white;
+    border: white;
+    width: 60vw;
+    background-color: black;
+}
+
+.name-home{
+    color: white;
+}
+
+.img-home{
+    border-radius: 50%;
+    height: 20vh;
+    width: 20vh;
+}
+
+.logout{
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    border-radius: 2px 2px 4px 1px;
+    padding: 1vh 2vw;
+    text-decoration: none;
+    margin: 2vh;
+}
+
+.logout:hover{
+    scale: 1.2;
+}
+

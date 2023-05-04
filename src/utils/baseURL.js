@@ -1,0 +1,1 @@
+export const baseURL = "https://yourhr-backend.onrender.com"
